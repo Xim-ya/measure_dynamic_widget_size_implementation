@@ -6,10 +6,10 @@
 <br/>
 
 <p align="center">
-You can check out the example running on the following site.</p>
+You can check out the example running on the following site 👇</p>
 <p align="center">
 <a href="https://measure-size-builder-example.netlify.app/"> MeasureSizeBuilder Example </a>
-</p>
+</p>    
 
 
 
