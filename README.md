@@ -77,4 +77,4 @@ Even when the size of widgets like ExpansionTile changes dynamically, MeasureSiz
 
 <br/>
 
-For more detailed information, please refer to my blog post titled <a href="https://medium.com/@ximya/organize-your-global-providers-in-flutter-riverpod-with-mixin-class-562ae2aa3376">"Organize Your “Global” Providers in Flutter Riverpod with Mixin Class"<a/>
+For more detailed information, please refer to my blog post titled <a href="https://medium.com/@ximya/get-dynamic-widget-size-in-flutter-f3e12c52ce1f">Get Dynamic Widget Size in Flutter<a/>
